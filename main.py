@@ -9,3 +9,5 @@ print("Tasks:", tasks)
 print("Day of the week:", day_of_week)
 print("Start time:", start_time)
 print("End time:", end_time)
+
+# Save the task to an object
